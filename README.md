@@ -22,8 +22,8 @@
 |sumit(integrator)|99003537(stepin104974)|0|2|2|0||2|0||
 
 # **Challenges**
-|       Name  |     Number  |       Challenges faced    | Challenges overcomed       |Knowledge gained|
-|-------------|------------ |-------------|--------------|------------------|------------------|
+|       Name  |     Number  |Challenges faced| Challenges overcomed|Knowledge gained|
+|-------------|------------ |----------------|---------------------|------------------|
 |    Srushti  | 99003529 |Github activites, adding tables in Readme file|Resolved issues, updating Readme file| Github learning, software design and implementation|
 # Calculator
 ## overview:
