@@ -25,7 +25,7 @@
 7. Computation with floating point is done.
 
 # CONS
-1. Calculation  for large numbers cannot be done since the calculator is of 8 bit
+1. Calculation  for large numbers cannot be done since the calculator is of 8 bit.
 2. High cost.
 3. Usage of calculator makes people more lazy.
 4. It limits the knowledge of user.
@@ -45,8 +45,8 @@
 
 STRENGTHS
 
-1. It is user friendly
-2. Good battery backup
+1. It is user friendly.
+2. Good battery backup.
 3. Stores the data 
 4. It is convenient to carry
 5. Broad variety of products are available. 
