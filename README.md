@@ -1,7 +1,7 @@
 # **TEAM**
 |       Name  |     Number          |           Feature         | Issues Raised | Issues Resolved|
 |-------------|---------------------|---------------------------|---------------|----------------|
-|        Srushti   | 99003529 (stepin104981)           |  addition of numbers,LL and HL UML diagrams,Test plan and test cases      |            1 |1               |
+|        Srushti   | 99003529 (stepin104981)           |  addition of numbers,LL and HL UML diagrams,Test plan and test cases      |            3|2|               |
 |        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML diagrams for division of two numbers,4W's and 1 H     |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T |99003538(stepin104952)|exponential function|1|1|
