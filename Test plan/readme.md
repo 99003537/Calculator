@@ -13,7 +13,7 @@
 
 | **ID**         | **DESCRIPTION**| **PRE-CONDITION** | **EXPECTED INPUT** | **EXPECTED OUTPUT** | 
 | -------------- | -------------- | ----------------- | ------------------ | ------------------- | 
-| **LL\_01\_01** | Testing for addition of two numbers| Two numbers are positive and integer numbers | 4,8 | 12 | 
+| **LL\_01\_01** |  Testing for addition of two numbers | Two numbers are positive and integer numbers | 4,8 | 12 | 
 | **LL\_01\_02** | Testing for addition of two number | Two numbers are positive and float | 4.2,8.2 | 12.4 |
 | **LL\_02\_01** | Testing for subtraction of two numbers| Two numbers are positive and integer numbers | 4,8 | -4 |
 | **LL\_02\_02** | Testing for subtraction of two numbers | numbers are positive and float values | 5.2,1.2| 4.0 |
