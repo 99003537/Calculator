@@ -26,7 +26,7 @@
 |       Name  |     Number  |Challenges faced| Challenges overcomed|Knowledge gained|
 |-------------|------------ |----------------|---------------------|------------------|
 |    Srushti  | 99003529 |Github activites, adding tables in Readme file|Resolved issues, updating Readme file| Github learning, software design and implementation|
-|   Harshitha | 99003531 |Installtion of github desktop, github activities|Resolved installation issues and github issues|github activities, SDlC implementation|  
+|   Harshitha | 99003531 |Installtion of github desktop, github activities|Resolved installation issues and github issues|github activities, SDLC implementation|  
 # Calculator
 ## overview:
   **calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
