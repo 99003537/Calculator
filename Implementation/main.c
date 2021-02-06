@@ -1,4 +1,5 @@
-#include "header/main_header.h"
+#include "main_header.h"
+//#include "main_test_functions_headers.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -67,5 +68,5 @@ int main()
             break;
     }
 
-   // test_main();
+   test_main();
 return 0;}

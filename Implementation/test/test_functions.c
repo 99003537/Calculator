@@ -1,7 +1,9 @@
 
-#include "header/main_header.h"
-#include "unity.h"
-#include "unity_internals.h"
+#include "main_header.h"
+
+#include "../unity/unity.h"
+#include "../unity/unity_internals.h"
+
 #include <stdio.h>
 
 
