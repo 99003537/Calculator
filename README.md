@@ -5,7 +5,7 @@
 |        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML diagrams for division of two numbers,4W's and 1 H     |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T |99003538(stepin104952)|exponential function|1|1|
-|Rishita |99003535|Squareroot|Square root of a number,LL and HL UML diagrams, Test plan and Test cases|1|1|
+|Rishita |99003535|Squareroot| Square root of a number,LL and HL UML diagrams, Test plan and Test cases |1|1|
 |Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
 |sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
 
