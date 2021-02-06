@@ -1,4 +1,4 @@
-**TEAM**
+# **TEAM**
 |       Name  |     Number          |           Feature         | Issues Raised | Issues Resolved|
 |-------------|---------------------|---------------------------|---------------|----------------|
 |        Srushti   | 99003529            |  addition of numbers      |            1 |1               |
@@ -7,19 +7,19 @@
 |Dhyan Nandan T (stepin104952)|99003538|exponential function|1|1|
 |Rishita |99003535|Squareroot|1|1|
 |Harshitha|99003531| Multiplication of numbers|1|1|
-|Christy  |99003536 |Cube root of a number | 1 | 1 |
+|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
 
 
-**Test Status**
+# **Test Status**
 |       Name  |     Number  |       HL    |     LL       |Test cases passed | Test cases failed|
 |-------------|------------ |-------------|--------------|------------------|------------------|
 |    Srushti  | 99003529 |    1         |  2               |        2|0|
 |    SatyaSindhu(stepin104865)  | 99003534 |    1         |  2               |        2|0|
 |   Namratha   |99003532    |    1          |2| 2|0|
-|Dhyan Nandan T (stepin104952)|99003538|1|2|2|0|
+|Dhyan Nandan T|99003538|1|2|2|0|
 |Rishita       |99003535|1|2|2|0|
 |Harshitha | 99003531|1|2|2|0|
-|Christy  |99003536  |1 |2|2|0|
+|sumit(integrator)|99003537(stepin104974)|0|2|2|0||2|0||
 # Calculator
 ## overview:
   **calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
