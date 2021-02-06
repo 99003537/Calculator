@@ -4,10 +4,10 @@
 |        Srushti   | 99003529            |  addition of numbers      |            1 |1               |
 |        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers      |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
-|Dhyan Nandan T |99003538(stepin104952)|exponential function|2|1|
+|Dhyan Nandan T (stepin104952)|99003538|exponential function|1|1|
 |Rishita |99003535|Squareroot|1|1|
-|Harshitha|99003531| Multiplication of numbers|1|1|
-|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |2|(still open)|
+|Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
+|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
 
 
 # **Test Status**
@@ -16,7 +16,7 @@
 |    Srushti  | 99003529 |    1         |  2               |        2|0|
 |    SatyaSindhu(stepin104865)  | 99003534 |    1         |  2               |        2|0|
 |   Namratha   |99003532    |    1          |2| 2|0|
-|Dhyan Nandan T|99003538(stepin104952)|1|2|2|0|
+|Dhyan Nandan T|99003538|1|2|2|0|
 |Rishita       |99003535|1|2|2|0|
 |Harshitha | 99003531|1|2|2|0|
 |sumit(integrator)|99003537(stepin104974)|0|2|2|0||2|0||
