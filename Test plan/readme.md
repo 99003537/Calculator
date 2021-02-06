@@ -24,7 +24,7 @@
 | **LL\_05\_01** | Testing for modulus| If number is positive and integer | 10,3 | 1 |
 | **LL\_05\_02** | Testing for modulus| If number are positive and float | 10.2,2.2 | 0.6 |
 | **LL\_06\_01** | Testing for square root| If number is positive and integer | 9 | 3 |
-| **LL\_06\_02** | Testing for square root| If number is positive and float | 5.29 | 3.3 |
+| **LL\_06\_02** | Testing for square root| If number is positive and float | 10.89 | 3.3 |
 | **LL\_07\_01** | Testing for percentage| If number is positive and integer | 10,100 | 10 |
 | **LL\_07\_02** | Testing for percentage| If number is positive and float | 2.5,10 | 2.5 |
 | **LL\_08\_01** | Testing for cuberoot| If number is positive and integer | 27 | 3 |
