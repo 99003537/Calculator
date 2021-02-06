@@ -5,6 +5,7 @@
 |        SatyaSindhu   | 99003534            |  division of numbers      |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T(stepin104952)|99003538|exponential function|1|1|
+|Christy               | 99003536     |Cube root of number | 1   | 1   |
 
 
 
@@ -15,6 +16,7 @@
 |    SatyaSindhu  | 99003534 |    1         |  2               |        2|0|
 |   Namratha   |99003532    |    1          |2| 2|0|
 |Dhyan Nandan T|99003538|1|2|2|0|
+|Christy       |99003536 |1 | 2 | 2 | 0 |
 
 # Calculator
 ## overview:
