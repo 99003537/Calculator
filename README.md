@@ -4,7 +4,7 @@
 |        Srushti   | 99003529            |  addition of numbers      |            1 |1               |
 |        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers      |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
-|Dhyan Nandan T(stepin104952)|99003538|exponential function|1|1|
+|Dhyan Nandan T (stepin104952)|99003538|exponential function|1|1|
 |Rishita |99003535|Squareroot|1|1|
 |Harshitha|99003531| Multiplication of numbers|1|1|
 
