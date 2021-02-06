@@ -31,7 +31,7 @@
 |Rishita|99003535|Pushing files from VS Code to GITHUB , merge conflicts|Building and debugging programs in VS code|Github Activities,Software requirements,design and implementation.|
 |Namratha |99003532|During installation of VS Code|Resolved issues| Github learning,SDLC implementation|
 |Harshitha |99003531|During installation of github desktop|Resolved github issues| Github learning,SDLC implementation|
-|Satyasindhu |99003534|merge of file and during installations and setups|Resolved issues | working without getting merge with help of coordination,Github learning,SDLC implementation|
+|Satyasindhu |99003534|during installations,setups and merge of files|Resolved issues | working with team coordination,Github learning,SDLC implementation|
 
 # Calculator
 ## overview:
