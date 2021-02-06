@@ -7,7 +7,7 @@
 |Dhyan Nandan T (stepin104952)|99003538|exponential function|1|1|
 |Rishita |99003535|Squareroot|1|1|
 |Harshitha|99003531| Multiplication of numbers|1|1|
-|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
+|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |2|(still open)|
 
 
 # **Test Status**
