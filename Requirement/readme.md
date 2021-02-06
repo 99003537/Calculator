@@ -41,7 +41,7 @@
 4. Calculator takes the inputs using electronic components called logic gates.
 5. Each and every calculator may be programmed to calculate a different degree of accuracy so different calculators gives different  values.
 
-# SWOT ANALYSIS
+# SWOT ANALYSIS   
 
 STRENGTHS
 
@@ -84,7 +84,7 @@ It has trigonometric functions and hyperbolic functions
 Exponential and square root functions
 Constants values such as pi 
 It has scientific notations
-Matrix calculations
+Matrix calculations  
 
 WHY MULTIPURPOSE CALCULATOR IS USED?
 
