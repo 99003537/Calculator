@@ -68,4 +68,5 @@ int main()
     }
 
     //test_function();
+    test_main();
 return 0;}

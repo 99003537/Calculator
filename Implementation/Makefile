@@ -48,7 +48,7 @@ run: $(PROJECT_NAME)
 	./$(PROJECT_NAME)
 
 test: $(BUILD)
-	gcc $(SRC) $(INC) -o $(TEST_OUTPUT) 
+	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) 
 
 	./$(TEST_OUTPUT)
 
