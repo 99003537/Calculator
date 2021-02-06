@@ -7,7 +7,7 @@ int squareroot(int number)
 
     if (number<1)
     {
-        printf("Result is an imaginary number");
+        printf("\nResult is an imaginary number\n");
     }
     else 
     {
@@ -21,8 +21,10 @@ int squareroot(int number)
                 result = ((number/temp)+temp)/2;
                 
             }
-        printf("The square root of %d is %f",number,result);
+        printf("\nThe square root of %d is %f\n",number,result);
        
     }
 
 }
+//please check your logic 
+//this was the error:test_squareroot:FAIL: Expected 3 Was 32

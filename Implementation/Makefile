@@ -13,6 +13,7 @@ src/multiplication.c\
 src/percentage.c\
 src/squareroot.c\
 src/subtraction.c\
+test/test_functions.c\
  unity/unity.c \
 
 
