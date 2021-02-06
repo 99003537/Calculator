@@ -13,7 +13,7 @@ src/multiplication.c\
 src/percentage.c\
 src/squareroot.c\
 src/subtraction.c\
- 
+ unity/unity.c \
 
 
 BUILD=build
@@ -29,7 +29,7 @@ src/percentage.c\
 src/squareroot.c\
 src/subtraction.c\
 test/test_functions.c \
-
+unity/unity.c\
 
 INC =  -Iheader -Iunity
 

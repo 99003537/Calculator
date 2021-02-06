@@ -6,6 +6,9 @@
 #include <stdlib.h>
 #include <math.h>
 
+//test header
+
+#include "main_test_functions_header.h"
 
 //function headers
 #include "add.h"
@@ -18,11 +21,7 @@
 #include "squareroot.h"
 #include "subtraction.h"
 
-//unity files
-/*
-#include "unity/unity.h"
-#include "unity/unity_internals.h"
-*/
+
 
 
 #endif

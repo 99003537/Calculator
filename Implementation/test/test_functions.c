@@ -1,13 +1,17 @@
 
 #include "header/main_header.h"
-#include "unity/unity.h"
-#include "unity/unity_internals.h"
+#include "unity.h"
+#include "unity_internals.h"
 #include <stdio.h>
 
 
-void setup(){}
-void teardown(){}
+void setUp(void) {
+    // set stuff up here
+}
 
+void tearDown(void) {
+    // clean stuff up here
+}
 
 /*
 void test_cuberoot(void);
@@ -79,7 +83,7 @@ void test_squareroot(void){
 
 
 
-int test_main(void){
+int main(void){
 
     UNITY_BEGIN();
 
