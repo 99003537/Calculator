@@ -15,7 +15,7 @@
 |    Srushti  | 99003529 |    1         |  2               |        2|0|
 |    SatyaSindhu(stepin104865)  | 99003534 |    1         |  2               |        2|0|
 |   Namratha   |99003532    |    1          |2| 2|0|
-|Dhyan Nandan T|99003538|1|2|2|0|
+|Dhyan Nandan T (stepin104952)|99003538|1|2|2|0|
 |Rishita       |99003535|1|2|2|0|
 |Harshitha | 99003531|1|2|2|0|
 # Calculator
