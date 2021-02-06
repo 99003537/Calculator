@@ -47,22 +47,22 @@ STRENGTHS
 
 1. It is user friendly.
 2. Good battery backup.
-3. Stores the data 
-4. It is convenient to carry
+3. Stores the data.
+4. It is convenient to carry.
 5. Broad variety of products are available. 
 
 WEAKNESS
 
-1. Cost is high
-2. Accurate sensors are required
+1. Cost is high.
+2. Accurate sensors are required.
 3. Launching products is slower.
-4. Growth is less because of high feature gadgets are already in the market
+4. Growth is less because of high feature gadgets are already in the market.
 
 OPPORTUNITIES
 
-1. Small size and less weight
-2. Its convenient to carry
-3. Replacement is easy
+1. Small size and less weight.
+2. Its convenient to carry.
+3. Replacement is easy.
 
 THREATS
 
@@ -103,7 +103,7 @@ can try out the ideas straightaway.
 WHERE
 
 Calculator is a part of everyone day to day life and it is used in many places from simple
-calculation to the most critical one
+calculation to the most critical one.
 
 HOW
 
