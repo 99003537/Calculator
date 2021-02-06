@@ -108,7 +108,7 @@ calculation to the most critical one
 HOW
 
 Calculators will accept the input, through the input keys and perform the required operations
-And if the input or the key were selected an incorrect way it displays a message ERROR and if inputs were clear calculator performs operations such as arithmetic, exponential and logical operations and displays the output based on the keys we selected.
+And if the input or the key were selected an incorrect way it displays a message ERROR and if inputs were clear calculator performs operations such as arithmetic, exponential and logical operations and displays the output based on the keys we selected.It can be used with the numbers along with defined functions required for the computations.
 
 
 
