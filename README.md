@@ -30,6 +30,9 @@
 | Lakshitha K S | 99003533 | Github desktop ,Internet issue,merge conflicts | resolved issues | learned to integrate between github desktop and vs code and learned how to clone in github | 
 |Rishita|99003535|Pushing files from VS Code to GITHUB , merge conflicts|Building and debugging programs in VS code|Github Activities,Software requirements,design and implementation.|
 |Namratha |99003532|During installation of VS Code|Resolved issues| Github learning,SDLC implementation|
+|Harshitha |99003531|During installation of github desktop|Resolved github issues| Github learning,SDLC implementation|
+|Satyasindhu |99003534|merge of file and during installations and setups|Resolved issues | working without getting merge with help of coordination,Github learning,SDLC implementation|
+
 # Calculator
 ## overview:
   **calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
