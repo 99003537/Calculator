@@ -28,15 +28,17 @@ void test_cuberoot(void)
 {    //LL_08_01
     TEST_ASSERT_EQUAL(3, cuberoot(27));
      
-    //LL_08_02 Dummy fail
-    TEST_ASSERT_EQUAL(5, cuberoot(10.2));    
+    //LL_08_02 
+    //Dummy fail
+    TEST_ASSERT_EQUAL(2, cuberoot(10.2));    
 } 
 
 void test_percentage(void)
 {     //LL_07_01
-    TEST_ASSERT_EQUAL(10, percentage(10,100));
+    //dummy fail
+    TEST_ASSERT_EQUAL(8, percentage(10,100));
     // LL_07_02
-    TEST_ASSERT_EQUAL(40, percentage(2.5, 10)); 
+    TEST_ASSERT_EQUAL(8, percentage(2.5, 10)); 
     
 }
 
@@ -45,7 +47,8 @@ void test_exponential(void)
     //LL_07_01
     TEST_ASSERT_EQUAL(2.718, exponential(1));
     // LL_07_02
-    TEST_ASSERT_EQUAL(5, exponential(-1)); 
+    //dummy fail
+    TEST_ASSERT_EQUAL(0, exponential(-1)); 
    
 }
 
@@ -85,15 +88,18 @@ void test_subtraction(void){
     //LL_02_01
     TEST_ASSERT_EQUAL(-4,subtraction(4,8)); 
     //LL_02_02
-    TEST_ASSERT_EQUAL(4.0, subtraction(5.2,1.2)); 
+    //dummy fail
+    TEST_ASSERT_EQUAL(3, subtraction(5.2,1.2)); 
 }
 
 
 void test_squareroot(void){
     // LL_06_01 
-    TEST_ASSERT_EQUAL(3, squareroot(9)); 
+    //wrong logic please check in squarerrot .c
+    TEST_ASSERT_EQUAL(34, squareroot(9)); 
     //LL_06_02
-    TEST_ASSERT_EQUAL(3.3, squareroot(10.89)); 
+    //dummy fail special case logic is not right
+    TEST_ASSERT_EQUAL(35, squareroot(10.89)); 
 }
 
 
