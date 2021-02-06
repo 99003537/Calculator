@@ -6,7 +6,7 @@
 |        Namratha      | 99003532             | modular division of numbers,UML diagram of Modular division,Low level research| 1           |1             |
 |Dhyan Nandan T (stepin104952)|99003538|exponential function|1|1|
 |Rishita |99003535|Squareroot|1|1|
-|Harshitha|99003531| Multiplication of numbers|1|1|
+|Harshitha|99003531| Multiplication of numbers,UML diagram of Multiplication,ageing and gradation |1|1|
 |sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |2|(still open)|
 |Christy          |99003536  |Cube root of a number | 1 | 1|
 
