@@ -2,7 +2,7 @@
 |       Name  |     Number          |           Feature         | Issues Raised | Issues Resolved|
 |-------------|---------------------|---------------------------|---------------|----------------|
 |        Srushti   | 99003529 (stepin104981)           |  addition of numbers, UML diagrams for addition of numbers,Test plan and test cases      |            3|2|
-|Lakshitha K S | 99003533(stepin104930) | percentage of numbers, UML diagrams for percentage of numbers, pros and cons and define product and test cases|1|1|
+|Lakshitha K S | 99003533(stepin104930) | percentage of numbers, UML diagrams for percentage of numbers, pro's and con's and define product ,test cases|1|1|
 |        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML diagrams for division of two numbers,4W's and 1 H and test cases    |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T |99003538(stepin104952)|exponential function|1|1|
@@ -15,6 +15,7 @@
 |       Name  |     Number  |       HL    |     LL       |Test cases passed | Test cases failed|
 |-------------|------------ |-------------|--------------|------------------|------------------|
 |    Srushti  | 99003529 |    1         |  2               |        2|0|
+| Lakshitha K S | 99003533 | 1 | 2 | 2 | 0|
 |    SatyaSindhu(stepin104865)  | 99003534 |    1         |  2               |        2|0|
 |   Namratha   |99003532    |    1          |2| 2|0|
 |Dhyan Nandan T|99003538(stepin104952)|1|2|2|0|
@@ -26,8 +27,8 @@
 |       Name  |     Number  |Challenges faced| Challenges overcomed|Knowledge gained|
 |-------------|------------ |----------------|---------------------|------------------|
 |    Srushti  | 99003529 |Github activites, adding tables in Readme file|Resolved issues, updating Readme file| Github learning, software design and implementation|
-|   Harshitha | 99003531 |Installtion of github desktop, github activities|Resolved installation issues and github issues|github activities, SDLC implementation|  
-|Namratha | 99003532|during installations of visual studio code| Resolved innstallation issues and github issues|Github activities,SDLC inmplementations|
+| Lakshitha K S | 99003533 | Github desktop ,Internet issue,merge conflicts | resolved issues | learned to integrate between github desktop and vs code and learned how to clone in github | 
+|Rishita|99003535|Pushing files from VS Code to GITHUB , merge conflicts|Building and debugging programs in VS code|Github Activities,Software requirements,design and implementation.|
 # Calculator
 ## overview:
   **calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
