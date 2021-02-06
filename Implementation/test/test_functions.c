@@ -1,6 +1,5 @@
 
-#include "CUnit/Headers/Basic.h"
-#include "CUnit/Headers/CUnit.h"
+#include "header/main_header.h"
 #include <stdio.h>
 
 #define PROJECT_NAME    "Calculator"
