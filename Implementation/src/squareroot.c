@@ -19,9 +19,10 @@ int squareroot(int number)
             {
                 temp=result;
                 result = ((number/temp)+temp)/2;
-                printf("The square root of %d is %f",number,result);
-       
+                
             }
+        printf("The square root of %d is %f",number,result);
+       
     }
 
 }
