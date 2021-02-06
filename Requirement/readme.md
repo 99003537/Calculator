@@ -2,7 +2,7 @@
 
 | PAST | PRESENT | FUTURE |
 |---|---|---|
-| Calculator using beads on rods, the principle was frame holding a series of rods with ten sliding beads on each.|Calculations are done in faster and accurate manner which are digital and scientific. | Advanced features would be used for trignometry,algebra and statistics. It has more than 240+ built in functions.|                                      
+|  Calculator using beads on rods, the principle was frame holding a series of rods with ten sliding beads on each.|Calculations are done in faster and accurate manner which are digital and scientific. | Advanced features would be used for trignometry,algebra and statistics. It has more than 240+ built in functions.  |                                      
 
 
 # GRADATION IN TERMS OF COST
@@ -41,7 +41,7 @@
 4. Calculator takes the inputs using electronic components called logic gates.
 5. Each and every calculator may be programmed to calculate a different degree of accuracy so different calculators gives different  values.
 
-# SWOT ANALYSIS
+# SWOT ANALYSIS   
 
 STRENGTHS
 
@@ -84,7 +84,7 @@ It has trigonometric functions and hyperbolic functions
 Exponential and square root functions
 Constants values such as pi 
 It has scientific notations
-Matrix calculations
+Matrix calculations  
 
 WHY MULTIPURPOSE CALCULATOR IS USED?
 
@@ -108,7 +108,7 @@ calculation to the most critical one
 HOW
 
 Calculators will accept the input, through the input keys and perform the required operations
-And if the input or the key were selected an incorrect way it displays a message ERROR and if inputs were clear calculator performs operations such as arithmetic, exponential and logical operations and displays the output based on the keys we selected.
+And if the input or the key were selected an incorrect way it displays a message ERROR and if inputs were clear calculator performs operations such as arithmetic, exponential and logical operations and displays the output based on the keys we selected.It can be used with the numbers along with defined functions required for the computations.
 
 
 
