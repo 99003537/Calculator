@@ -2,7 +2,7 @@
 |       Name  |     Number          |           Feature         | Issues Raised | Issues Resolved|
 |-------------|---------------------|---------------------------|---------------|----------------|
 |        Srushti   | 99003529            |  addition of numbers      |            1 |1               |
-|        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML diagrams for division of two numbers,4W'ss and 1 H     |            1 |1               |
+|        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML diagrams for division of two numbers,4W's and 1 H     |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T |99003538(stepin104952)|exponential function|1|1|
 |Rishita |99003535|Squareroot|1|1|
