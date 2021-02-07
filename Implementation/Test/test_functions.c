@@ -75,7 +75,7 @@ void test_multiplication(void)
     TEST_ASSERT_EQUAL(5.0, multiplication(1.0,5.0)); 
     //LL_03_03
     TEST_ASSERT_EQUAL(8.0, multiplication(4.0,2.0));
-//LL_03_03
+    //LL_03_03
     TEST_ASSERT_EQUAL(8.0, multiplication(4.0,2.0));
 }
 
