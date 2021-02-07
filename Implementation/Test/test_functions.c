@@ -61,7 +61,7 @@ void test_modular_division(void)
     //LL_05_03
     TEST_ASSERT_EQUAL(10, modular_division(10,40));
     //LL_05_03
-    TEST_ASSERT_EQUAL(16.2, modular_division(16.2,8.1));
+    TEST_ASSERT_EQUAL(0, modular_division(16.2,8.1));
 
       
 
