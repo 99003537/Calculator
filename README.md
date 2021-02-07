@@ -3,7 +3,7 @@
 |-------------|---------------------|---------------------------|---------------|----------------|
 |        Srushti   | 99003529 (stepin104981)           |  addition of numbers, UML diagrams for addition of numbers,Test plan and test cases      |            3|2|
 |Lakshitha K S | 99003533(stepin104930) | percentage of numbers, UML diagrams for percentage of numbers, pro's and con's and define product ,test cases|1|1|
-|        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML diagrams for division of two numbers,4W's and 1 H and test cases    |            1 |1               |
+|        SatyaSindhu (stepin104865)  | 99003534            |  division of numbers, UML,s diagrams for division of two numbers,4W's and 1 H and test cases    |            1 |1               |
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T |99003538(stepin104952)|exponential function,HL LL UML diagrams, High level Requirements|2|2|
 |Rishita |99003535|Square root of a number,LL and HL UML diagrams, Test plan and Test cases |1|1|
