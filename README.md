@@ -31,7 +31,7 @@
 |Satyasindhu |99003534|during installations,setups and merge of files|Resolved issues | working with team coordination,Github learning,SDLC implementation|
 # Calculator
 ## overview:
-  **calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
+**calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
 ##  Calculator performs some basic functions mentioned below:
 |       no.   |     name          |                 description                   |
 |-------------|-------------------|-----------------------------------------------|
