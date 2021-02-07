@@ -70,6 +70,8 @@ void test_multiplication(void)
     TEST_ASSERT_EQUAL(6, multiplication(2,3)); 
     //LL_03_01
     TEST_ASSERT_EQUAL(5.0, multiplication(1.0,5.0)); 
+    //LL_03_03
+    TEST_ASSERT_EQUAL(12.0, multiplication(2.0,6.0));
 }
 
 void test_divide(void){
