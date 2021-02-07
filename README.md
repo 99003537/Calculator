@@ -8,7 +8,7 @@
 |Dhyan Nandan T |99003538(stepin104952)|exponential function|1|1|
 |Rishita |99003535|Square root of a number,LL and HL UML diagrams, Test plan and Test cases |1|1|
 |Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
-|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
+|sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |3|3|
 # Badges
 ![cppcheck-action](https://github.com/99003537/Calculator/workflows/cppcheck-action/badge.svg)![Unit testing](https://github.com/99003537/Calculator/workflows/Unit%20testing/badge.svg)![Valgrind](https://github.com/99003537/Calculator/workflows/Valgrind/badge.svg)![C/C++ CI](https://github.com/99003537/Calculator/workflows/C/C++%20CI/badge.svg)
 ![Codacy Badge](https://api.codacy.com/project/badge/Grade/96d204721e344ad0b46de009c2b5e619)
