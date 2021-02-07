@@ -96,6 +96,10 @@ void test_add(void){
     TEST_ASSERT_EQUAL(12, add(4,8)); 
     //LL_01_02
     TEST_ASSERT_EQUAL(12.4, add(4.2,8.2)); 
+    //LL_01_03
+    TEST_ASSERT_EQUAL(-8, add(-5,-3));
+    //LL_01_04
+    TEST_ASSERT_EQUAL(10, add(0,10));
 }
 
 
