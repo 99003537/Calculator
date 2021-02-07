@@ -76,7 +76,7 @@ void test_multiplication(void)
     //LL_03_03
     TEST_ASSERT_EQUAL(8.0, multiplication(4.0,2.0));
     //LL_03_04
-    TEST_ASSERT_EQUAL(35.36, multiplication(4.0,2.0));
+    TEST_ASSERT_EQUAL(35.36, multiplication(5.2,6.8));
 }
 
 void test_divide(void){
