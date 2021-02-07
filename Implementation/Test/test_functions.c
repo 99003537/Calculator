@@ -59,7 +59,7 @@ void test_modular_division(void)
     //LL_05_02
     TEST_ASSERT_EQUAL(0.6, modular_division(10.2,2.2)); 
     //LL_05_03
-    TEST_ASSERT_EQUAL(4, modular_division(4,12));
+    TEST_ASSERT_EQUAL(10, modular_division(10,40));
       
 
 }
