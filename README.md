@@ -9,6 +9,8 @@
 |Rishita |99003535|Square root of a number,LL and HL UML diagrams, Test plan and Test cases |1|1|
 |Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
 |sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
+# Badges
+|![Codacy Badge](https://api.codacy.com/project/badge/Grade/96d204721e344ad0b46de009c2b5e619)](https://app.codacy.com/gh/99003537/Calculator?utm_source=github.com&utm_medium=referral&utm_content=99003537/Calculator&utm_campaign=Badge_Grade)|
 # **Test Status**
 |       Name  |     Number  |       HL    |     LL       |Test cases passed | Test cases failed|
 |-------------|------------ |-------------|--------------|------------------|------------------|
@@ -44,5 +46,8 @@
 |        7    | percentage        | returns percentage of ration of two numbers   |
 |        8    | cube root         | returns the cube root of provided number      |
 |        9    | exponential       | return exponential value of two numbersspecified as base and exponent|
+
+
+
 
 
