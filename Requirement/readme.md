@@ -20,21 +20,21 @@
 7.Computation with floating point is done.
 # CONS
 1.Calculation for large numbers cannot be done since the calculator is of 8 bit.
-2.High cost.
+2.High cost
 3.Usage of calculator makes people more lazy.
 4.It limits the knowledge of user.
 5.Fault results for invalid input.
-7.Arthemetic computaion with negative numbers is not done. 
+7.Arthemetic computaion with negative numbers is not done
 # DEFINE PRODUCT        
 1.It is a portable device which is used to perform simple calculations to complex calculations.
 2.The purpose of the calculator is to do efficient computations.
 3.It helps the user to do complex calculations accurately.
 4.Calculator takes the inputs using electronic components called logic gates.
-5.Each and every calculator may be programmed to calculate a different degree of accuracy so different calculators gives different  values.
+5.Each and every calculator may be programmed to calculate a different degree of accuracy so different calculators gives different values.
 # SWOT ANALYSIS   
 STRENGTHS
-1.It is user friendly.
-2.Good battery backup.
+1.It is user friendly
+2.Good battery backup
 3.Stores the data.
 4.It is convenient to carry.
 5.Broad variety of products are available. 
