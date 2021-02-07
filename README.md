@@ -7,7 +7,7 @@
 |        Namratha      | 99003532             | modular division of numbers| 1           |1             |
 |Dhyan Nandan T |99003538(stepin104952)|exponential function|1|1|
 |Rishita |99003535|Square root of a number,LL and HL UML diagrams, Test plan and Test cases |1|1|
-|Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
+|Harshitha|99003531 (stepin105190)| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
 |sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges, github actions, integration of code |3|3|
 # Badges
 ![cppcheck-action](https://github.com/99003537/Calculator/workflows/cppcheck-action/badge.svg)![Unit testing](https://github.com/99003537/Calculator/workflows/Unit%20testing/badge.svg)![Valgrind](https://github.com/99003537/Calculator/workflows/Valgrind/badge.svg)![C/C++ CI](https://github.com/99003537/Calculator/workflows/C/C++%20CI/badge.svg)
