@@ -1,7 +1,7 @@
 # AGING
 | PAST | PRESENT | FUTURE |
 |---|---|---|
-|  Calculator using beads on rods, the principle was frame holding a series of rods with ten sliding beads on each.|Calculations are done in faster and accurate manner which are digital and scientific. | Advanced features would be used for trignometry,algebra and statistics. It has more than 240+ built in functions.  |                                      
+|Calculator using beads on rods, the principle was frame holding a series of rods with ten sliding beads on each.|Calculations are done in faster and accurate manner which are digital and scientific.| Advanced features would be used for trignometry,algebra and statistics. It has more than 240+ built in functions.|                                      
 # GRADATION IN TERMS OF COST
 |YEAR                     | MODEL                 |COST          |
 |-------------------------|-----------------------|--------------|
