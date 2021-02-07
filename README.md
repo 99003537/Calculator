@@ -9,8 +9,8 @@
 |Rishita |99003535|Square root of a number,LL and HL UML diagrams, Test plan and Test cases |1|1|
 |Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
 |sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
-
-
+# Badges
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/96d204721e344ad0b46de009c2b5e619)![cppcheck-action](https://github.com/99003537/Calculator/workflows/cppcheck-action/badge.svg)
 # **Test Status**
 |       Name  |     Number  |       HL    |     LL       |Test cases passed | Test cases failed|
 |-------------|------------ |-------------|--------------|------------------|------------------|
@@ -22,7 +22,6 @@
 |Rishita       |99003535|1|2|2|0|
 |Harshitha | 99003531|1|2|2|0|
 |sumit(integrator)|99003537(stepin104974)|0|2|2|0||2|0||
-
 # **Challenges**
 |       Name  |     Number  |Challenges faced| Challenges overcomed|Knowledge gained|
 |-------------|------------ |----------------|---------------------|------------------|
@@ -32,11 +31,9 @@
 |Namratha |99003532|During installation of VS Code|Resolved issues| Github learning,SDLC implementation|
 |Harshitha |99003531|During installation of github desktop|Resolved github issues| Github learning,SDLC implementation|
 |Satyasindhu |99003534|during installations,setups and merge of files|Resolved issues | working with team coordination,Github learning,SDLC implementation|
-
 # Calculator
 ## overview:
-  **calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
-
+**calculator enables user to do multiple operations without interruptiing the user operations and  provides interractive user interface to user**
 ##  Calculator performs some basic functions mentioned below:
 |       no.   |     name          |                 description                   |
 |-------------|-------------------|-----------------------------------------------|
@@ -52,7 +49,5 @@
 
 
 
-
-![cppcheck-action](https://github.com/99003537/Calculator/workflows/cppcheck-action/badge.svg)     ![Valgrind](https://github.com/99003537/Calculator/workflows/Valgrind/badge.svg)
 
 
