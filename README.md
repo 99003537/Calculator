@@ -10,7 +10,7 @@
 |Harshitha|99003531| Multiplication of numbers, UML diagrams for multiplication of numbers, Aging and gradation in cost|1|1|
 |sumit(integrator)|99003537(stepin104974)|subtraction of numbers,makefile, unit testing,status badges |1|(still open)|
 # Badges
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/96d204721e344ad0b46de009c2b5e619)![cppcheck-action](https://github.com/99003537/Calculator/workflows/cppcheck-action/badge.svg)
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/96d204721e344ad0b46de009c2b5e619)![cppcheck-action](https://github.com/99003537/Calculator/workflows/cppcheck-action/badge.svg)![Unit testing](https://github.com/99003537/Calculator/workflows/Unit%20testing/badge.svg)
 # **Test Status**
 |       Name  |     Number  |       HL    |     LL       |Test cases passed | Test cases failed|
 |-------------|------------ |-------------|--------------|------------------|------------------|
