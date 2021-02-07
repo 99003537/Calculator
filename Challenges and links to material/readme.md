@@ -12,6 +12,7 @@
 |Christy|99003536|Merge Conflicts|Resolved all issues|Github learning,SDLC implementation|
 # **links to learning material**
 |no.|subject|link|
+|-------|--------|--------|
 |1.|Github Actions|https://github.com/features/actions|
 |||https://docs.github.com/en/actions/learn-github-actions|
 |||https://docs.github.com/en/actions|
