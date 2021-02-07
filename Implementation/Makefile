@@ -48,10 +48,10 @@ run: $(PROJECT_NAME)
 	./$(PROJECT_NAME)
 
 
+#here as test_main is directly called so test command is same as run function
 
-test: $(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) 
-	./$(TEST_OUTPUT)
+test: $(PROJECT_NAME)
+	./$(PROJECT_NAME)
 
 
 	
