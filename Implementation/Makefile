@@ -13,11 +13,10 @@ src/multiplication.c\
 src/percentage.c\
 src/squareroot.c\
 src/subtraction.c\
-test/test_functions.c\
+Test/test_functions.c\
  unity/unity.c \
 
 
-BUILD=build
 
 TEST_SRC=main.c\
 src/add.c\
@@ -29,14 +28,14 @@ src/multiplication.c\
 src/percentage.c\
 src/squareroot.c\
 src/subtraction.c\
-test/test_functions.c \
+Test/test_functions.c \
 unity/unity.c\
 
 INC =  -Iheader -Iunity
 
 PROJECT_NAME= Calculator.out
 
-TEST_OUTPUT=$(BUILD)/Test_$(PROJECT_NAME).out
+TEST_OUTPUT=$(BUILD)/Test_$(PROJECT_NAME)
 
 #-Iunity
 
@@ -48,9 +47,10 @@ $(PROJECT_NAME): $(SRC)
 run: $(PROJECT_NAME)
 	./$(PROJECT_NAME)
 
+
+
 test: $(BUILD)
 	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) 
-
 	./$(TEST_OUTPUT)
 
 
@@ -58,3 +58,5 @@ test: $(BUILD)
 clean:
 	rm -rf $(PROJECT_NAME) documentation/html
 
+
+BUILD=build

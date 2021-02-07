@@ -6,11 +6,11 @@ float divide(float a,float b)
 {
     
     if (b!=0){
-        printf("%f", a/b);
+        printf("\n%f\n", a/b);
         return a/b;
         }
         else{
-        printf("invalid operation");
+        printf("\ninvalid operation\n");
         return 0;
         }
     

@@ -10,6 +10,8 @@ int main()
 
     //first input from user: a number
     float A,B;
+    
+   
 
     printf("Hello user, please enter the 1st numbers \n");
     scanf("%f", &A);
@@ -68,5 +70,7 @@ int main()
             break;
     }
 
-   test_main();
+    
+ test_main();
+   
 return 0;}

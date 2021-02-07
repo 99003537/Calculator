@@ -11,13 +11,13 @@ int modular_division(int a,int b)
 
         result=a%b;
 
-        printf("%d\n",result);
+        printf("\n%d\n",result);
         return result;
     }
 
     else
     {
-        printf("invalid operation\n");
+        printf("\ninvalid operation\n");
     }
 
 }

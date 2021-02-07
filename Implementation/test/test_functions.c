@@ -35,10 +35,10 @@ void test_cuberoot(void)
 
 void test_percentage(void)
 {     //LL_07_01
-    //dummy fail
-    TEST_ASSERT_EQUAL(8, percentage(10,100));
+    TEST_ASSERT_EQUAL(10, percentage(10,100));
     // LL_07_02
-    TEST_ASSERT_EQUAL(8, percentage(2.5, 10)); 
+    //dummy fail
+    TEST_ASSERT_EQUAL(10, percentage(2.5, 10)); 
     
 }
 

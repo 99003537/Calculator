@@ -7,6 +7,6 @@ int add (int a, int b){
 }
 */
 float add (float p, float q){
-    printf("%f",p+q);
+    printf("\n%f\n",p+q);
     return p + q;
 }

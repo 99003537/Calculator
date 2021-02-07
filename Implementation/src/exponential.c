@@ -15,7 +15,7 @@ for(y;y>0;y--)
     res= res * e;
     }
     
-    printf("%lf\n", res);
+    printf("\n%lf\n", res);
     return res;
 }
 else if(y<0)
@@ -25,11 +25,11 @@ else if(y<0)
     res= res/e;
     }
     
-    printf("%lf\n", res);
+    printf("\n%lf\n", res);
     return res;
 }
    else
-   {printf("Invalid Input");
+   {printf("\nInvalid Input\n");
 
 return 0;}
 }

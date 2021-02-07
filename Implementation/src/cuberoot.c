@@ -6,7 +6,7 @@ double cuberoot(double x){
     for(i=1;(i*i*i)<=x;i++);
     for(--i;(i*i*i)<x; i += precision);
     res = i;
-    printf("%lf", res);
+    printf("\n%lf\n", res);
     return res;
 
 }

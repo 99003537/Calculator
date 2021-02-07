@@ -26,5 +26,3 @@ int squareroot(int number)
     }
 
 }
-//please check your logic 
-//this was the error:test_squareroot:FAIL: Expected 3 Was 32
