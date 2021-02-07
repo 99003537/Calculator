@@ -86,7 +86,7 @@ void test_divide(void){
     TEST_ASSERT_EQUAL(8.1, divide(24.3,3.0));
     //LL_04_03
     TEST_ASSERT_EQUAL(8.0, divide(32.0,4.0)); 
-    //LL_04_03
+    //LL_04_04
     TEST_ASSERT_EQUAL(3.7, divide(7.4,2.0)); 
 }
 
