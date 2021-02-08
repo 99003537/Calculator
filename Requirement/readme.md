@@ -24,7 +24,7 @@
 3.Usage of calculator makes people more lazy.
 4.It limits the knowledge of user.
 5.Fault results for invalid input.
-7.Arthemetic computaion with negative numbers is not done
+7.Arithmetic computation with negative numbers is not done.
 ## DEFINE PRODUCT        
 1.It is a portable device which is used to perform simple calculations to complex calculations.
 2.The purpose of the calculator is to do efficient computations.
