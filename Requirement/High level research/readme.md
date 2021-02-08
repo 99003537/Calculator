@@ -1,6 +1,6 @@
 ## High Level requirement analysis
 * Any calculator must be efficient.
-* Any calculator must have a user friendly interfce.
+* Any calculator must have a user friendly interface.
 * It should also be accurate in terms of results.
 * It should be able to perform multiple functions.
 * It must be cost efficient.
