@@ -1,4 +1,4 @@
-# Low level research
+# Low level requirement
 |ID|DESCRIPTION|                                                                                                               
 |------------- | -------------------------------------------------------------------------------------------------------------------|
 |LL_1|If the calculations are if not possible the calculator  must display information helping the user to resolve the issue.|
