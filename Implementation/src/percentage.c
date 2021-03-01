@@ -28,17 +28,18 @@ float percentage(float num1, float num2)
 {
     float percent;
    
-    //scanf("%f %f", &num1,&num2);
-    if(num2==0)
-    {
-        printf("denominator enterede should be greater than 0");
-        percent=0;
-    }
-    else
-    {
-       
+    if(num2!=0)
+    {     
     percent = (num1 /num2 )*100;
+     printf("\n%f\n",percentage);
     
+        
+    }
+    else if(num2==0)
+    {
+  printf("denominator enterede should be greater than 0");
+        percent=0;
+        
     }
     return percent;
 }
