@@ -10,7 +10,6 @@ float subtraction(float num1, float num2){
 
 result= abs(num1-num2)
 
-printf("\n%f\n", (num1-num2));
 printf("\n%f\n", result);
 
 return (result);
