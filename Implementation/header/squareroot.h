@@ -3,6 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-int squareroot(int x);
+float squareroot(float x);
 
 #endif
