@@ -1,5 +1,5 @@
 # **TEAM**
-|       Name  |     Number          |           Feature         | Issues Raised | Issues Resolved|
+|Name|Number|Feature|Issues Raised|Issues Resolved|
 |-------------|---------------------|---------------------------|---------------|----------------|
 |        Srushti   | 99003529 (stepin104981)           |  addition of numbers, UML diagrams for addition of numbers,Test plan and test cases      |            3|2|
 |Lakshitha K S | 99003533(stepin104930) | percentage of numbers, UML diagrams for percentage of numbers, pro's and con's and define product ,test cases|1|1|
