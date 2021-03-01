@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <math.h>
 
-int squareroot(int number)
+float squareroot(float number)
 {
 
-    if (number<1)
+    if (number<0)
     {
         printf("\nResult is an imaginary number\n");
     }
@@ -21,7 +21,7 @@ int squareroot(int number)
                 result = ((number/temp)+temp)/2;
                 
             }
-        printf("\nThe square root of %d is %f\n",number,result);
+        printf("\nThe square root of %f is %f\n",number,result);
        
     }
 
