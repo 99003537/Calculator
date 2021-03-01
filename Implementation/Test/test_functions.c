@@ -114,11 +114,11 @@ void test_subtraction(void){
 
 void test_squareroot(void){
     // LL_06_01 
-    //wrong logic please check in squarerrot .c
-    TEST_ASSERT_EQUAL(34, squareroot(9)); 
+    
+    TEST_ASSERT_EQUAL(3, squareroot(9)); 
     //LL_06_02
-    //dummy fail special case logic is not right
-    TEST_ASSERT_EQUAL(35, squareroot(10.89)); 
+    //Dummy test case
+    TEST_ASSERT_EQUAL(3.5, squareroot(10.89)); 
 }
 
 
