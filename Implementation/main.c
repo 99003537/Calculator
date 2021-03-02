@@ -13,10 +13,7 @@ int main()
     
    
 
-    printf("Hello user, please enter the 1st numbers \n");
-    scanf("%f", &A);
-    printf("Hello user, please enter the 2nd numbers \n");
-    scanf("%f", &B);
+    
     
 
     //users choice 
@@ -27,6 +24,20 @@ int main()
     printf("enter your choice for function as mentioned further:\n ");
     printf("+: 0\n-: 1\nx: 2\n/: 3\nmod. division: 4\nsqrt: 5\npercentage: 6\ncube_root: 7\nexpo.: 8\nexit: 9\n");
     scanf("%d",&operation);
+
+    if(operation==5 || operation==7 || operation==8){
+
+        printf("Hello user, please enter the numbers \n");
+    scanf("%f", &A);
+    //printf("Hello user, please enter the 2nd numbers \n");
+    //scanf("%f", &B);
+    }else{
+
+        printf("Hello user, please enter the 1st numbers \n");
+    scanf("%f", &A);
+    printf("Hello user, please enter the 2nd numbers \n");
+    scanf("%f", &B);
+    }
         
         
     //switching functions
