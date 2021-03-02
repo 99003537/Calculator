@@ -3,6 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-float percentage(float num1, float num2);
+float percentage(float num1, float nkkk);
 
 #endif

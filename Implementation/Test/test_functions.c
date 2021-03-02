@@ -71,10 +71,6 @@ void test_modular_division(void)
 void test_multiplication(void)
 {   //LL_03_01
     TEST_ASSERT_EQUAL(6, multiplication(2,3)); 
-    //LL_03_02
-    TEST_ASSERT_EQUAL(5.0, multiplication(1.0,5.0)); 
-    //LL_03_03
-    TEST_ASSERT_EQUAL(8.0, multiplication(4.0,2.0));
     //LL_03_04
     TEST_ASSERT_EQUAL(35.36, multiplication(5.2,6.8));
 }
